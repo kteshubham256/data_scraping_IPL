@@ -2,6 +2,9 @@
 IPL Match Data Scraper
 ## Overview
 This project automates the process of scraping IPL (Indian Premier League) match data using Selenium. By simply inputting the desired year, the function retrieves comprehensive match data in a tabular format, including match date, teams playing, venue, and results.
+
+
+
 ![image](https://github.com/kteshubham256/data_scraping_IPL/assets/148578267/542a13a1-2ff4-4acc-b115-5fd3ddcaf25f)
 
 ## Features
