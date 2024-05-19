@@ -23,5 +23,4 @@ Chrome WebDriver
 ## Contribution
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests to help improve this project.
 
-![image](https://github.com/kteshubham256/data_scraping_IPL/assets/148578267/d9501c0b-4906-4d73-bc12-f30ff5dec919)
 
